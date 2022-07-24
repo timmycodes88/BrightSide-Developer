@@ -2886,3 +2886,7 @@ details-disclosure > details {
 .font-body-bold {
   font-weight: var(--font-body-weight-bold);
 }
+
+.field-service {
+  margin-bottom: 5px;
+}
