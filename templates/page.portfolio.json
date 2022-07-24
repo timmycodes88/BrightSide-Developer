@@ -1,0 +1,243 @@
+{
+  "sections": {
+    "1658600927a2e25649": {
+      "type": "slideshow",
+      "blocks": {
+        "1658600926163f50af-0": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/TRACTION.png",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "ae8aadce-1ce1-49ee-8699-9d0761659b89": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2clothes2.png",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "860300d0-d928-4dba-a787-fbaf666e52e6": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/CoffeeProducts.png",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "a0eeb222-d7f4-4889-b56b-b8ec0fe39233": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Lamars_Cart.png",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "97b8ba16-11d3-4cf5-9b70-71c40fce1bc7": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/CehckoutHawk.png",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "1658600926163f50af-0",
+        "ae8aadce-1ce1-49ee-8699-9d0761659b89",
+        "860300d0-d928-4dba-a787-fbaf666e52e6",
+        "a0eeb222-d7f4-4889-b56b-b8ec0fe39233",
+        "97b8ba16-11d3-4cf5-9b70-71c40fce1bc7"
+      ],
+      "settings": {
+        "layout": "grid",
+        "slide_height": "adapt_image",
+        "slider_visual": "dots",
+        "auto_rotate": true,
+        "change_slides_speed": 3,
+        "show_text_below": true,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    },
+    "16586015338cb741ad": {
+      "type": "image-with-text",
+      "blocks": {
+        "16586015339631fa5b-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Stone Concepts KC",
+            "heading_size": "h1"
+          }
+        },
+        "16586015339631fa5b-1": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "text_style": "body"
+          }
+        },
+        "16586015339631fa5b-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "View Live Site!",
+            "button_link": "https:\/\/www.stoneconceptskc.com"
+          }
+        }
+      },
+      "block_order": [
+        "16586015339631fa5b-0",
+        "16586015339631fa5b-1",
+        "16586015339631fa5b-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/STONER.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "16586015616a3927e5": {
+      "type": "image-with-text",
+      "blocks": {
+        "1658601561ac95a3bc-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Destroy the Odds",
+            "heading_size": "h1"
+          }
+        },
+        "1658601561ac95a3bc-1": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "text_style": "body"
+          }
+        },
+        "1658601561ac95a3bc-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "View Live Site!",
+            "button_link": "https:\/\/www.dtogg.com"
+          }
+        }
+      },
+      "block_order": [
+        "1658601561ac95a3bc-0",
+        "1658601561ac95a3bc-1",
+        "1658601561ac95a3bc-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/DTO.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1658603340014a2799": {
+      "type": "video",
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "cover_image": "shopify:\/\/shop_images\/lamborghini-huracan-sto.jpg",
+        "video_url": "https:\/\/youtu.be\/fKRZb3b7gOA",
+        "description": "",
+        "full_width": false,
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "16586016097616d6ce": {
+      "type": "contact-form",
+      "settings": {
+        "heading": "Get a FREE Consultation!",
+        "heading_size": "h1",
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    }
+  },
+  "order": [
+    "1658600927a2e25649",
+    "16586015338cb741ad",
+    "16586015616a3927e5",
+    "1658603340014a2799",
+    "16586016097616d6ce",
+    "main"
+  ]
+}
